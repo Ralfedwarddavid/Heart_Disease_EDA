@@ -10,12 +10,6 @@ Before running the code in this repository, ensure you have the following Python
 - Seaborn: For statistical data visualization.
 - Matplotlib: For creating static, interactive, and animated visualizations in Python.
 
-You can install these libraries using pip:
-
-```bash
-pip install pandas seaborn matplotlib
-
-
 Project Overview
 This EDA project is divided into six key sections, each focusing on a specific aspect of the heart disease dataset:
 
