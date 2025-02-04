@@ -16,7 +16,7 @@ You can install these libraries using pip:
 pip install pandas seaborn matplotlib
 
 
-# Project Overview
+Project Overview
 This EDA project is divided into six key sections, each focusing on a specific aspect of the heart disease dataset:
 
 Heart Disease EDA - Age (DistPlot): Visualizes the distribution of age using a distplot, combining a histogram, kernel density estimate (KDE), and rug plot.  This allows us to understand the age range of the individuals in the dataset and identify any age-related patterns.  We observe the minimum and maximum ages and the distribution of ages within the dataset.
